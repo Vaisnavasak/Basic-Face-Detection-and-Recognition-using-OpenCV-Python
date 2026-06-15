@@ -1,5 +1,5 @@
 # Basic-Face-Detection-and-Recognition-using-OpenCV-Python
-            This is a model that detects tha faces and recognize it based on the database generated. It is basically a 3 step process, which incudes
+This is a model that detects tha faces and recognize it based on the database generated. It is basically a 3 step process, which incudes
                                  1. Generating dataset
                                  2. Training based on the dataset
                                  3. Detect the face and name it if it is already in the dataset
