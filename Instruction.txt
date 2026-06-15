@@ -1,0 +1,10 @@
+**INSTRUCTIONS:**
+  1. Install OpenCV by
+      pip install opencv-python
+  2. Change the id for every new person 
+  3. Locate to your OpenCV location and find **"haarcascade_frontalface_default.xml"** which has set to rules to dectect faces based on proposed properties
+  4. Bring it to your code
+  5. To find OpenCV, use
+    pip show opencv-python
+  6. After the training, you may find **"classifier.xml"** in your folder 
+  7. Then detection and recognition works smooth
