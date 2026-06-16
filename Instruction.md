@@ -1,4 +1,4 @@
-#INSTRUCTIONS:
+**INSTRUCTIONS**:
   1. Install OpenCV by
       **pip install opencv-python**
   2. Create a folder called **"data"** before generating the dataset, as the face of a person captured for n times (200 here) is the data stored in the data folder.
